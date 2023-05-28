@@ -85,7 +85,7 @@ nav ul li a:hover {
 
 #home::before {
     content: '';
-    background: url('../bg1.jpg') no-repeat center center/cover;
+    background: url('bg1.jpg') no-repeat center center/cover;
     position: absolute;
     width: 100%;
     height: 490px;
@@ -150,7 +150,7 @@ nav ul li a:hover {
 #client-section::before {
     content: '';
     position: absolute;
-    background: url('../bg.jpg') no-repeat center center/cover;
+    background: url('bg.jpg') no-repeat center center/cover;
     width: 100%;
     height: 100%;
     z-index: -2;
@@ -177,7 +177,7 @@ nav ul li a:hover {
     height: 100%;
     z-index: -1;
     opacity: 0.8;
-    background: url("../contact.jpg") no-repeat center center/cover;
+    background: url("contact.jpg") no-repeat center center/cover;
 }
 
 
